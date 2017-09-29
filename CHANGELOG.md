@@ -1,3 +1,11 @@
+## 1.6.2 [unreleased]
+
+- Adds presents, for, and provides attributes to eventProperites 
+
+## 1.6.1 [unreleased]
+
+- Added `gin` index on properties for events
+
 ## 1.6.1 [unreleased]
 
 - Added `gin` index on properties for events

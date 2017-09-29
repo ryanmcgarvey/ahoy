@@ -208,7 +208,10 @@
       id: $target.attr("id"),
       "class": $target.attr("class"),
       page: page(),
-      section: $target.closest("*[data-section]").data("section")
+      section: $target.closest("*[data-section]").data("section"),
+      provides: $target.attr('provides'),
+      for: $target.attr('for'),
+      presents: $target.attr('presents')
     };
   }
 
